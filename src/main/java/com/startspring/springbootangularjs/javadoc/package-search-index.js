@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.startspring.springbootangularjs"},{"l":"com.startspring.springbootangularjs.controller"},{"l":"com.startspring.springbootangularjs.dao"},{"l":"com.startspring.springbootangularjs.model"}]
